@@ -1,5 +1,4 @@
-⚠️ Repos here are usuall promoted to official Housing Foundation or Salesforce Commons repos.
-
+⚠️ These repos are usually promoted to official Housing Foundation or Salesforce Commons repos.
 ⚠️ See the individual project readme's for status & links
 
 - 👋 Hi, I’m @Etienne-SFDO
