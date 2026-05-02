@@ -1,4 +1,4 @@
-⚠️ Repos here are usuall superseded by an official open source Housing Foundation or Salesforce Commons repos.
+⚠️ Repos here are usuall promoted to official Housing Foundation or Salesforce Commons repos.
 
 ⚠️ See the individual project readme's for status & links
 
