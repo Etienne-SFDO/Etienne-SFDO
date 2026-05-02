@@ -1,3 +1,6 @@
+⚠️ Repos here are usuall superseded by an official open source Housing Foundation or Salesforce Commons repos.
+⚠️ See the individual project readme's for status & links
+
 - 👋 Hi, I’m @Etienne-SFDO
 - 👀 I’m interested in all things Salesforce, especially Social Housing in the UK/EMEA 
 - 💞️ I’m looking to collaborate on Social Housing apps
